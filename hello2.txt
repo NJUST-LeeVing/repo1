@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+	cout << "这是第二个文件" << endl;
+	
+	system("pause");
+	return 0;
+}
